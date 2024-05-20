@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+log-service:
+  logServiceUrl: http://localhost:8081/api
